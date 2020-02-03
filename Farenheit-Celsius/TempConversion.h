@@ -15,6 +15,6 @@ return 0;
 
 void convertTable(char from, char to) {
   printf("====================== \n")
-  
+  printf("\t\t" %c
   printf("======================")
 }
